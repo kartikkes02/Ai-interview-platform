@@ -8,3 +8,14 @@ It integrates **Speech-to-Text, LLMs, and Text-to-Speech** to deliver a realisti
 ---
 
 ## ✨ Features
+
+- **Real-Time Voice Q&A** – AI conducts live interviews using voice.  
+- **Dynamic Follow-Up Questions** – AI adapts based on answers (*e.g., project explanation → authentication questions*).  
+- **Instant Feedback Dashboard** – Scores confidence, clarity, and technical depth.  
+- **Filler Word & Stress Detection** – Tracks "umm", pauses, and speaking pace.  
+- **Personalized Answer Suggestions** – AI rewrites answers for improvement.  
+- **Role-Specific Interviews** – Tailored for Software Engineer, Data Analyst, Product Manager, etc.  
+- **AI Panel Mode (Bonus)** – Simulates a full panel with multiple AI voices.  
+- **Multilingual Support** – Practice in English, Hindi, and more.  
+
+---
