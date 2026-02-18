@@ -40,3 +40,14 @@ It integrates **Speech-to-Text, LLMs, and Text-to-Speech** to deliver a realisti
 6. **Backend (Vapi Firebase)** – Handles authentication, session management, and storage.
 
 ---
+
+## 🚀 Getting Started  
+
+### 1️⃣ Clone Repo  
+```bash
+git clone https://github.com/kartikkes02/Ai-interview-platform.git
+cd Ai-interview-platform
+
+npm install
+npm run dev
+```
