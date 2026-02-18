@@ -51,3 +51,8 @@ cd Ai-interview-platform
 npm install
 npm run dev
 ```
+
+
+## Configure Vapi Firebase
+## Set Gemini API key
+### Create a new file named .env.local in the root of your project and add the following content:
