@@ -19,3 +19,13 @@ It integrates **Speech-to-Text, LLMs, and Text-to-Speech** to deliver a realisti
 - **Multilingual Support** – Practice in English, Hindi, and more.  
 
 ---
+
+## 🛠️ Tech Stack  
+
+- **Frontend**: React / Next.js  
+- **Backend & Auth**: Vapi Firebase  
+- **AI & Voice Services**: Gemini API (LLM, STT, TTS)  
+- **Optional Analytics**: Sentiment & tone analysis via HuggingFace Transformers  
+- **Optional Facial Tracking**: Mediapipe / OpenCV  
+
+---
