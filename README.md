@@ -29,3 +29,14 @@ It integrates **Speech-to-Text, LLMs, and Text-to-Speech** to deliver a realisti
 - **Optional Facial Tracking**: Mediapipe / OpenCV  
 
 ---
+
+## ⚡ Architecture  
+
+1. **STT Layer (Gemini API)** – Converts voice → text.  
+2. **Interview Engine (Gemini API)** – Generates dynamic follow-up questions using LLM.  
+3. **Evaluation Engine** – Analyzes text + audio metrics for scoring.  
+4. **Feedback Layer** – Provides live dashboard + improvement suggestions.  
+5. **TTS Layer (Gemini API)** – Converts AI questions → natural voice.  
+6. **Backend (Vapi Firebase)** – Handles authentication, session management, and storage.
+
+---
