@@ -1,4 +1,4 @@
-# 🎙️ Real-Time AI Voice Agent Interview Platform 
+# 🎙️ Real-Time AI Voice Agent Interview Platform
 
 ## 📌 Overview  
 Our platform is a **real-time AI interview agent** that allows users to practice interviews interactively using voice. It listens to responses, asks **contextual follow-up questions**, and provides **instant feedback** on confidence, clarity, and technical knowledge.  
